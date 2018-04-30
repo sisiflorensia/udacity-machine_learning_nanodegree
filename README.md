@@ -1,7 +1,7 @@
 # Udacity - Machine Learning Nanodegree (MLND)
 
 In this program, I will build Machine Learning models using various algorithms in supervised and supervised learning, deep learning and reinforcement learning on data sets in fields like finance, healthcare, education, and
-more. This is a 1 term program that is spread over 6 months. Estimated time required to complete this nanodegree is 200 hours.
+more. This is a 1 term program spreads over 6 months. Estimated time required to complete this nanodegree is 200 hours.
 
 ## Introduction
 
