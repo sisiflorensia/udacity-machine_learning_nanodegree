@@ -27,7 +27,7 @@ Selections of methods and metrics to approach the following questions:
 <br>
   
 ## Stage 2: Supervised Learning
-Apply data preprocessing practice on both numerical and non-numerical data and make an optimal predicting model by combining various algorithms and hyperparameters to achieve best performed and efficient model. 
+Apply data preprocessing practice on both numerical and non-numerical data and make an optimal predicting model by combining various algorithms and hyperparameters to achieve best performed and efficient model.<br>
 <br>
 **Tools:** SckiKit learn (sklearn)<br>
 **Algorithm**: Linear and Logistic Regression, Decision Trees, Naive Bayes, Support Vector Machines (SVM), Ensemble Method and Boosting<br>
