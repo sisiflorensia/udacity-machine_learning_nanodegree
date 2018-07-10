@@ -20,9 +20,9 @@ Selections of methods and metrics to approach the following questions:
 - How do we train a model?
 - How do we know if the model is good?
 - How do I improve this model?
-<br>
+
 **Tools:** SckiKit learn (sklearn), Confusion Matrix (Precision and Recall), Learning Curve<br>
-**Algorithm**: Black box of Supervised Learning algorithms<br>
+**Algorithm:** Black box of Supervised Learning algorithms<br>
 **Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P2%20MLND%20-%20predicting_boston_housing_price">Predicting Boston Housing Prices</a>
 <br>
   
@@ -40,7 +40,7 @@ Building the Deep Learning network for image recognition classifier from scratch
 - Data preprocessing
 - Build and train CNN from scratch and using transfer learning, supported with Amazon's GPU EC2
 - Create a web app for the dog breed classifier
-<br>
+
 **Tools:** Keras, TensorFlow, GPU EC2 AWS, ROC Curve<br>
 **Algorithm**: Neural Networks, Multi Layer Perceptrons (MLPs), Convolutional Neural Network, Image Augmentation, Transfer Learnin<br>
 **Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P3%20MLND%20-%20finding_donors_for_charityML">Finding Donors for Charity ML</a>
