@@ -8,7 +8,7 @@ In this program, I've learned the following modules and created projects related
 <br>
 
 ## Stage 0: Machine Learning Foundation
-Key learning: Overview on various main algorithms that are used in Machine Learning.<br>
+Overview on various main algorithms that are used in Machine Learning.<br>
 <br>
 **Tools:** Python, NumPy, Pandas<br>
 **Algorithm**: Overview of Decision Tress, Naive Bayes, Linear Regression, Logistic Regression, Support Vector Machine (SVM), Neural Networks, Kernel Method, K-Means Clustering, Hirearchical Clustering.<br>
@@ -16,30 +16,26 @@ Key learning: Overview on various main algorithms that are used in Machine Learn
 <br>
 
 ## Stage 1: Model Evaluation and Validation
-Key learnings: Selections of methods and metrics to approach the following questions: 
+Selections of methods and metrics to approach the following questions: 
 - How do we train a model?
 - How do we know if the model is good?
 - How do I improve this model?
-
-> **Tools:** SckiKit learn (sklearn), Confusion Matrix (Precision and Recall), Learning Curve
-> <br>**Algorithm**: Black box of Supervised Learning algorithms
-> <br>**Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P2%20MLND%20-%20predicting_boston_housing_price">Predicting Boston Housing Prices</a>
+<br>
+**Tools:** SckiKit learn (sklearn), Confusion Matrix (Precision and Recall), Learning Curve<br>
+**Algorithm**: Black box of Supervised Learning algorithms<br>
+**Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P2%20MLND%20-%20predicting_boston_housing_price">Predicting Boston Housing Prices</a>
 <br>
   
 ## Stage 2: Supervised Learning
-Key learnings:
-- Getting setup with Python and Command Line Interface (CLI) basics
-- String manipulation (slicing, concatenation, find, replace, split, join)
-- Control flow, loops and structured data (if statements, while loops, list and for loops)
-- Debugging strategies
+Apply data preprocessing practice on both numerical and non-numerical data and make an optimal predicting model by combining various algorithms and hyperparameters to achieve best performed and efficient model. 
 <br>
 **Tools:** SckiKit learn (sklearn)<br>
-**Algorithm**: Linear and Logistic Regression, Decision Trees, Naive Bayes, Neural Networks, Support Vector Machines (SVM)<br>
+**Algorithm**: Linear and Logistic Regression, Decision Trees, Naive Bayes, Support Vector Machines (SVM), Ensemble Method and Boosting<br>
 **Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P3%20MLND%20-%20finding_donors_for_charityML">Finding Donors for Charity ML</a>
 <br>
 
 ## Stage 3A: Deep Learning with Keras
-Key learnings: Building the Deep Learning network for image recognition classifier from scratch by performing the following:
+Building the Deep Learning network for image recognition classifier from scratch by performing the following:
 - Data extraction from various common sources
 - Data preprocessing
 - Build and train CNN from scratch and using transfer learning, supported with Amazon's GPU EC2
