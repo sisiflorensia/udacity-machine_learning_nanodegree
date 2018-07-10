@@ -9,10 +9,10 @@ In this program, I've learned the following modules and created projects related
 
 ## Stage 0: Machine Learning Foundation
 Key learning: Overview on various main algorithms that are used in Machine Learning.<br>
-
-> **Tools:** Python, NumPy, Pandas
-> <br>**Algorithm**: Overview of Decision Tress, Naive Bayes, Linear Regression, Logistic Regression, Support Vector Machine (SVM), Neural Networks, Kernel Method, K-Means Clustering, Hirearchical Clustering.
-> <br>**Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P1%20MLND%20-%20titanic_survival_exploration">Exploring the Titanic Survival Data</a>
+<br>
+**Tools:** Python, NumPy, Pandas<br>
+**Algorithm**: Overview of Decision Tress, Naive Bayes, Linear Regression, Logistic Regression, Support Vector Machine (SVM), Neural Networks, Kernel Method, K-Means Clustering, Hirearchical Clustering.<br>
+**Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P1%20MLND%20-%20titanic_survival_exploration">Exploring the Titanic Survival Data</a>
 <br>
 
 ## Stage 1: Model Evaluation and Validation
@@ -32,10 +32,10 @@ Key learnings:
 - String manipulation (slicing, concatenation, find, replace, split, join)
 - Control flow, loops and structured data (if statements, while loops, list and for loops)
 - Debugging strategies
-
-> **Tools:** SckiKit learn (sklearn)
-> <br>**Algorithm**: Linear and Logistic Regression, Decision Trees, Naive Bayes, Neural Networks, Support Vector Machines (SVM)
-> <br>**Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P3%20MLND%20-%20finding_donors_for_charityML">Finding Donors for Charity ML</a>
+<br>
+**Tools:** SckiKit learn (sklearn)<br>
+**Algorithm**: Linear and Logistic Regression, Decision Trees, Naive Bayes, Neural Networks, Support Vector Machines (SVM)<br>
+**Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P3%20MLND%20-%20finding_donors_for_charityML">Finding Donors for Charity ML</a>
 <br>
 
 ## Stage 3A: Deep Learning with Keras
@@ -44,31 +44,34 @@ Key learnings: Building the Deep Learning network for image recognition classifi
 - Data preprocessing
 - Build and train CNN from scratch and using transfer learning, supported with Amazon's GPU EC2
 - Create a web app for the dog breed classifier
-
-> **Tools:** Keras, TensorFlow, GPU EC2 AWS, ROC Curve<br>
-> **Algorithm**: Neural Networks, Multi Layer Perceptrons (MLPs), Convolutional Neural Network, Image Augmentation, Transfer Learnin<br>
-> **Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P3%20MLND%20-%20finding_donors_for_charityML">Finding Donors for Charity ML</a>
+<br>
+**Tools:** Keras, TensorFlow, GPU EC2 AWS, ROC Curve<br>
+**Algorithm**: Neural Networks, Multi Layer Perceptrons (MLPs), Convolutional Neural Network, Image Augmentation, Transfer Learnin<br>
+**Project:** <a href="https://github.com/Flosisi/udacity-mlnd/tree/master/P3%20MLND%20-%20finding_donors_for_charityML">Finding Donors for Charity ML</a>
 <br>
 
 ## Stage 3B: Deep Learning with TensorFlow
 Key learnings: TBD<br>
-
-> **Tools:** Keras, TensorFlow, GPU EC2 AWS
-> **Algorithm**: Convolutional Neural Network, Transfer Learning.
-> **Project:** TBC
+<br>
+**Tools:** Keras, TensorFlow, GPU EC2 AWS<br>
+**Algorithm**: Convolutional Neural Network, Transfer Learning<br>
+**Project:** TBC
+<br>
 
 ## Stage 4: Unsupervised Learning
 Key learnings: TBD<br>
-
-> **Tools:** TBD
-> **Algorithm**: Clustering Methods, Dimensionality Reduction
-> **Project:** Creating Customer Segments
+<br>
+**Tools:** TBD<br>
+**Algorithm**: Clustering Methods, Dimensionality Reduction<br>
+**Project:** Creating Customer Segments
+<br>
 
 ## Stage 5: Reinforcement Learning
 Key learnings: TBD<br>
-
-> **Tools:** TBD
-> **Algorithm**: Deep Q-networks, Policy Gradients
-> **Project:** Teach a Quadcopter to Fly
+<br>
+**Tools:** TBD<br>
+**Algorithm**: Deep Q-networks, Policy Gradients<br>
+**Project:** Teach a Quadcopter to Fly
+<br>
 
 ## Stage 6: Final Capstone Project
