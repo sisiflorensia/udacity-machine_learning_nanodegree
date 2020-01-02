@@ -2,8 +2,7 @@
 
 After I have completed my <a href="https://github.com/Flosisi/udacity-ipnd">IPND</a>, I decided to learn further in AI field.
 My next step is to continue to learn with Udacity for Machine Learning, to later then study further in one of the specialisation.
-This is a 1 term 6-months long program, which I am currently doing since April 2018 until expected graduation date on October 2018.
-In this program, I've learned the following modules and created projects related to those topics.
+This was a 1 term 6-months long program. In this program, I've learned the following modules and created projects related to those topics.
 <br>
 <br>
 
